@@ -1,0 +1,5 @@
+cata_*O1_electrostatic_charge,cata_E_HOMO,cata_E_LUMO,cata_dipole_moment,cata_electronegativity,cata_hardness,cata_molecular_volume,cata_molecular_weight,cata_ovality,cata_surface_area,name
+-0.123,-0.3583,-0.1863,7.699264,0.27,0.09,244.8,234.283,1.435,271.5,HBTU
+-0.392,-0.3392,-0.1496,6.217044,0.24,0.09,383.14,375.437,1.605,409.47,PyBOP
+-0.527,-0.2634,-0.052,4.889525,0.16,0.11,229.07,236.638,1.365,247.17,DPP-CL
+-0.513,-0.2864,-0.024,7.069425,0.16,0.13,197.03,254.566,1.372,224.69,BOP-CL

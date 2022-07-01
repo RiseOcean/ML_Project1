@@ -1,0 +1,5 @@
+name,solvent_*C1_NMR_shift,solvent_*C1_electrostatic_charge,solvent_*C2_NMR_shift,solvent_*C2_electrostatic_charge,solvent_E_HOMO,solvent_E_LUMO,solvent_V1_frequency,solvent_V1_intensity,solvent_dipole_moment,solvent_electronegativity,solvent_hardness,solvent_molecular_volume,solvent_molecular_weight,solvent_ovality,solvent_surface_area
+DMAc,155.89,0.604,31.64,-0.581,-0.2338,0.0339,1031.865,65.108,3.65952,0.1,0.13,104.27,87.122,1.201,128.64
+DMF,148.65,0.169,34.53,-0.647,-0.2422,0.0322,3132.072,18.455,3.830057,0.1,0.14,86.45,73.095,1.172,110.81
+MeCN,102.75,0.442,1.76,-0.692,-0.3264,0.0366,3139.321,1.978,3.813492,0.14,0.18,53.2,41.053,1.076,73.59
+DMSO,41.13,-0.516,41.13,-0.516,-0.2224,0.0427,3155.343,0.04,3.927258,0.09,0.13,79.02,78.133,1.169,104.12
